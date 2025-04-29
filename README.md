@@ -1,28 +1,89 @@
-<h1 align="center">Hi 👋, I'm Muhammad Humayun</h1>
-<h3 align="center">A passionate for Machine learning</h3>
+<!-- Banner -->
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<img align ="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.web">
+<h1 align="center">Hi 👋, I'm <span style="color:#4FC3F7;">Muhammad Humayun</span></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khuhrohumayun&label=Profile%20views&color=0e75b6&style=flat" alt="khuhrohumayun" /> </p>
+<h3 align="center">🚀 Aspiring Machine Learning Engineer | Data Enthusiast | Lifelong Learner</h3>
 
-- 🌱 I’m currently learning **Python, pandas, Numpy**
-
-- 💬 Ask me about **ML Models**
-
-- 📫 How to reach me **humayunmuhammad902@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/humayunmuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humayunmuhammad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammad-humayun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-humayun" height="30" width="40" /></a>
-<a href="https://instagram.com/humayun_khuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humayun_khuhro" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Transforming+Data+into+Insights;Building+Intelligent+Systems;Passionate+about+AI+and+ML;Continuous+Learning+and+Growth" alt="Typing Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuhrohumayun&show_icons=true&locale=en&layout=compact" alt="khuhrohumayun" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khuhrohumayun&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khuhrohumayun&" alt="khuhrohumayun" /></p>
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/humayunmuhammad)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khuhrohumayun)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/humayun_khuhro)
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing **Bachelor’s in Software Engineering**
+- 🌱 Currently learning **Python, Pandas, NumPy**
+- 💻 Exploring **Machine Learning** and **Data Science**
+- 📫 Reach me at: **humayunmuhammad902@gmail.com**
+- ⚡ Fun Fact: *I find joy in debugging and problem-solving!*
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages**: Python, C++, Java, HTML, CSS
+- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+- **Tools**: Git, Jupyter Notebook, VS Code
+- **Databases**: MySQL, MongoDB
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuhrohumayun&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📚 Certifications
+
+- 📜 [Python for Data Science](#) — *Coursera* (2025)
+- 📜 [Machine Learning Basics](#) — *DigiSkills.pk* (2025)
+
+---
+
+## 🎯 Interests
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analysis & Visualization
+- 📚 Reading tech blogs and books
+- 🎮 Gaming and exploring new technologies
+
+---
+
+## 📞 Contact Me
+
+- 📧 Email: **humayunmuhammad902@gmail.com**
+- 🌍 LinkedIn: [linkedin.com/in/humayunmuhammad](https://linkedin.com/in/humayunmuhammad)
+
+---
+
+<p align="center">✨ Let's connect and build something amazing together! 🚀</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</p>
