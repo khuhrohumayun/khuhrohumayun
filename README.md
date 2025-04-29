@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **Bachelor’s in Software Engineering**
+- 🎓 Pursuing **Bachelor’s in Computer Science**
 - 🌱 Currently learning **Python, Pandas, NumPy**
 - 💻 Exploring **Machine Learning** and **Data Science**
 - 📫 Reach me at: **humayunmuhammad902@gmail.com**
