@@ -2,7 +2,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm <span style="color:#4FC3F7;">Muhammad Humayun</span></h1>
-
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | Data Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -19,9 +18,11 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/humayunmuhammad)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khuhrohumayun)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/humayun_khuhro)
+<p align="center">
+  <a href="https://linkedin.com/in/humayunmuhammad"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/khuhrohumayun"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/humayun_khuhro"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -35,7 +36,7 @@
 
 ---
 
-## 💻 Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -74,8 +75,8 @@
 
 ## 📚 Certifications
 
-- 📜 [Python for Data Science](#) — *Coursera* (2025)
-- 📜 [Machine Learning Basics](#) — *DigiSkills.pk* (2025)
+- 📜 **Python for Data Science** — *Coursera* (2025)
+- 📜 **Machine Learning Basics** — *DigiSkills.pk* (2025)
 
 ---
 
