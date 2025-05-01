@@ -75,7 +75,7 @@
 
 ## 📚 Certifications
 
-- 📜 **Python for Data Science** — *Coursera* (2025)
+- 📜 **Python for Data Science** — *Kaggle* (2025)
 - 📜 **Machine Learning Basics** — *DigiSkills.pk* (2025)
 
 ---
