@@ -26,7 +26,6 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **Bachelor’s in Computer Science**
