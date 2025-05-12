@@ -79,7 +79,6 @@
 - 📜 **Machine Learning Basics** — *DigiSkills.pk* (2025)
 
 
-
 ---
 
 ## 🎯 Interests
