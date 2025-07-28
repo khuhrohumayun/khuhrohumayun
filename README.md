@@ -33,8 +33,9 @@
 - 🧠 Enthusiastic about solving real-world problems using **Data Science & AI**
 - 📈 Building projects in **Computer Vision, Data Analysis**, and **ML Models**
 - 📫 Email: **humayunmuhammad902@gmail.com**
-- 
-<meta name="google-site-verification" content="AxcnbiS_Vfs8Rlm6DhiOWQVp7YKl2jq4EkwyYfR78DI" />
+
+
+> google-site-verification: AxcnbiS_Vfs8Rlm6DhiOWQVp7YKl2jq4EkwyYfR78DI.html
 ---
 
 ## 🛠️ Tech Stack & Tools
