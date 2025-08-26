@@ -63,20 +63,40 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 
 **B.S. Computer Science** — Iqra University  
 📍 Karachi, Pakistan | 2022–2026  
+🎯 GPA: **3.4**
 
 ---
 
+## 💻 GitHub Stats
 
-### 💻 GitHub Stats
-![Humayun's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khuhrohumayun&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 🌍 Connect With Me
-- 📧 Email: humayunmuhammad902@gmail.com  
-- 💼 LinkedIn: [humayunmuhammad](https://linkedin.com/in/humayunmuhammad)  
-- 📷 Instagram: [humayun_khuhro](https://instagram.com/humayun_khuhro)
+
+<p align="center">
+  <a href="mailto:humayunmuhammad902@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/humayunmuhammad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/humayun_khuhro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <p align="center">📊 Turning data into insights, one project at a time 🚀</p>
