@@ -1,14 +1,16 @@
-<!-- Banner -->
-![Data Analyst Banner](https://i.imgur.com/2yYayZk.png)
+<!-- 🎯 Data Analyst GitHub Profile README (Clean, Pro, Impactful) -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#4FC3F7;">Muhammad Humayun</span></h1>
-<h3 align="center">📊 Data Analyst | 📈 Machine Learning Enthusiast | 🐍 Python Developer</h3>
+<h1 align="center">Hi 👋 I'm Muhammad Humayun</h1>
+<h3 align="center">📊 Data Analyst | Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Transforming+Data+into+Insights;Passionate+about+Data+Science+%26+Visualization;Exploring+Machine+Learning+Models;Portfolio+%7C+Projects+%7C+Learning+Journey" alt="Typing animation" />
+  <a href="https://www.linkedin.com/in/humayunmuhammad/" target="_blank">
+    <img src="https://img.shields.io/badge/Message%20Me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/humayun_tech" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khuhrohumayun&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
@@ -16,84 +18,77 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🧠 About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/humayunmuhammad"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/khuhrohumayun"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://instagram.com/humayun_tech"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+Third-year **Computer Science student** passionate about **data analysis, visualization, and applied machine learning**.  
+I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help decision-making.  
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 CS Student at **Iqra University**  
-- 📊 Passionate about **Data Analysis & Visualization**  
-- 🧠 Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, and Machine Learning**  
-- 🚀 Exploring **Business Intelligence & AI applications**  
-- 📫 Reach me at: **humayunmuhammad902@gmail.com**
+- 📊 Focused on **data analysis & visualization** (Tableau, Power BI, Matplotlib, Seaborn)  
+- 🐍 Skilled in **Python, Pandas, NumPy, Scikit-learn**  
+- 🚀 Exploring **machine learning models** & real-world data projects  
+- 📫 Email me: **humayunmuhammad902@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Highlight Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Seaborn-268BD2?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
+| Project | Description |
+|---------|-------------|
+| [`sales-analysis-dashboard`](https://github.com/khuhrohumayun/sales-analysis-dashboard) | Power BI dashboard analyzing sales KPIs & trends |
+| [`customer-churn-ml`](https://github.com/khuhrohumayun/customer-churn-ml) | ML pipeline predicting customer churn using Python & scikit-learn |
+| [`data-cleaning-automation`](https://github.com/khuhrohumayun/data-cleaning-automation) | Automated raw dataset cleaning with Pandas & NumPy |
+| [`covid19-data-viz`](https://github.com/khuhrohumayun/covid19-data-viz) | Interactive visualization using Python (Matplotlib + Seaborn) |
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Technical Skillset
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuhrohumayun&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+- **Programming**: Python, SQL, C++, Java (basics)  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **BI & Visualization**: Tableau, Power BI, Excel  
+- **ML Tools**: Scikit-learn, TensorFlow (basics), Keras  
+- **Databases**: MySQL, MongoDB  
+- **Other**: Git/GitHub, Jupyter Notebook, VS Code  
 
 ---
 
 ## 📜 Certifications
 
-- ✔️ **Python for Data Science** — *Kaggle (2025)*  
+- ✅ **Python for Data Science** — Kaggle (2025)  
+- ✅ **Google Data Analytics** — Coursera (in progress)  
 
 ---
 
-## 🎯 Interests & Goals
+## 🎓 Education
 
-- 📊 Data Visualization & Business Intelligence  
-- 🤖 Exploring Machine Learning Models  
-- 💡 Open Source & Hackathons  
-- 🌍 Building impactful **Data-Driven Applications**
+**B.S. Computer Science** — Iqra University  
+📍 Karachi, Pakistan | 2022–2026  
 
 ---
 
-## 📞 Reach Out Anytime
+## 📊 GitHub Stats
 
-- 📧 Email: **humayunmuhammad902@gmail.com**  
-- 🔗 LinkedIn: [humayunmuhammad](https://linkedin.com/in/humayunmuhammad)  
-- 📸 Instagram: [humayun_tech](https://instagram.com/humayun_tech)  
-- 💻 GitHub: [khuhrohumayun](https://github.com/khuhrohumayun)
-
----
-
-<p align="center">✨ Let’s turn data into insights together! 🚀</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="Thanks for visiting!" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=default&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuhrohumayun&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/humayunmuhammad)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/humayun_tech)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khuhrohumayun)  
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:humayunmuhammad902@gmail.com)
+
+---
+
+<p align="center">📊 Turning data into insights, one project at a time 🚀</p>
