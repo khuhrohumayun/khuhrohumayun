@@ -54,7 +54,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 
 ## 📜 Certifications
 
-- ✅ **Python for Data Science** — Kaggle (2025)  
+- ✅ **Python** — Kaggle (2025)  
 - ✅ **Google Data Analytics** — Coursera (in progress)  
 
 ---
@@ -66,29 +66,17 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=default&hide_border=true" />
-</p>
+### 💻 GitHub Stats
+![Humayun's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuhrohumayun&theme=default&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/humayunmuhammad)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/humayun_tech)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khuhrohumayun)  
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:humayunmuhammad902@gmail.com)
-
----
+## 🌍 Connect With Me
+- 📧 Email: humayunmuhammad902@gmail.com  
+- 💼 LinkedIn: [humayunmuhammad](https://linkedin.com/in/humayunmuhammad)  
+- 📷 Instagram: [humayun_khuhro](https://instagram.com/humayun_khuhro)
 
 <p align="center">📊 Turning data into insights, one project at a time 🚀</p>
