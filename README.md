@@ -35,7 +35,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 | Project | Description |
 |---------|-------------|
 | [`kids-math`](https://github.com/khuhrohumayun/Kids-Math) | Flutter-based educational game teaching kids basic math through fun quizzes & challenges |
-| [`sales-analysis-dashboard`](https://github.com/khuhrohumayun/sales-analysis-dashboard) | Power BI dashboard analyzing sales KPIs & trends |
+| [`java-dsa-visualization`](https://github.com/khuhrohumayun/java-dsa-visualization-master.git) | Data Strucres and Algorithms Visualization using java swing |
 | [`data-cleaning-automation`](https://github.com/khuhrohumayun/data-cleaning-automation) | Automated raw dataset cleaning with Pandas & NumPy |
 | [`covid19-data-viz`](https://github.com/khuhrohumayun/covid19-data-viz) | Interactive visualization using Python (Matplotlib + Seaborn) |
 
