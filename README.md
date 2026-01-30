@@ -74,7 +74,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuhrohumayun&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=khuhrohumayun&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
