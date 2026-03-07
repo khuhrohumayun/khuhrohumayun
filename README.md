@@ -35,7 +35,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 | Project | Description |
 |---------|-------------|
 | [`kids-math`](https://github.com/khuhrohumayun/Kids-Math) | Flutter-based educational game teaching kids basic math through fun quizzes & challenges |
-| [`java-dsa-visualization`](https://github.com/khuhrohumayun/java-dsa-visualization-master.git) | Data Strucres and Algorithms Visualization using java swing |
+| [`java-dsa-visualization`](https://github.com/khuhrohumayun/java-dsa-visualization-master) | Data Structures and Algorithms Visualization using Java Swing |
 | [`data-cleaning-automation`](https://github.com/khuhrohumayun/data-cleaning-automation) | Automated raw dataset cleaning with Pandas & NumPy |
 | [`covid19-data-viz`](https://github.com/khuhrohumayun/covid19-data-viz) | Interactive visualization using Python (Matplotlib + Seaborn) |
 
@@ -54,7 +54,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 
 ## 📜 Certifications
 
-- ✅ **Python** — Kaggle (2025)  
+- ✅ **Python** — Kaggle (2024)  
 - ✅ **Google Data Analytics** — Coursera (in progress)  
 
 ---
@@ -69,17 +69,15 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 
 ## 💻 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=khuhrohumayun&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=khuhrohumayun&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
