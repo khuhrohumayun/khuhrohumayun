@@ -70,14 +70,19 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 ## 💻 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khuhrohumayun&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=khuhrohumayun&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khuhrohumayun&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Muhammad Humayun github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 
 </div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuhrohumayun&theme=dark&hide_border=true&stroke=0000&background=0d1117&currStreakLabel=ff91a4&sideLabels=ff91a4&currStreakNum=ff91a4&dates=c9d1d9&sideNums=c9d1d9" alt="Muhammad Humayun" />
+  
+</div>
+
 
 ---
 
