@@ -62,7 +62,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 ## 🎓 Education
 
 **B.S. Computer Science** — Iqra University  
-📍 Karachi, Pakistan | 2022–2026  
+📍 Karachi, Pakistan | 2024–2028  
 **CGPA: 3.2**
 
 ---
