@@ -63,7 +63,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 
 **B.S. Computer Science** — Iqra University  
 📍 Karachi, Pakistan | 2022–2026  
-**CGPA: 3.4**
+**CGPA: 3.2**
 
 ---
 
@@ -95,7 +95,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
   <a href="https://linkedin.com/in/humayunmuhammad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/humayun_khuhro" target="_blank">
+  <a href="https://www.instagram.com/humayun_tech/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
